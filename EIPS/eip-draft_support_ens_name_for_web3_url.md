@@ -1,5 +1,5 @@
 ---
-eip: 6821
+eip: draft_support_ens_name_for_web3_url
 title: Support ENS Name for Web3 URL
 description: A mapping from an ENS name to the contract address in Web3 URL
 author: Qi Zhou (@qizhou), Qiang Zhu (@qzhodl)
