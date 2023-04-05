@@ -1,8 +1,12 @@
 ---
-eip: 6774
+eip: draft_non_sellable_tokens
 title: Non-Sellable Tokens
 description: Prevent speculation on NFTs by replacing transfers by a barter mechanism
-author: Cédric Nicolas (@cedric-n-icolas), Casey <casey@logion.community>, Kerel Verwaerde (@NSTKerel), Matthieu Chassagne <Matthieu@amcconsults.com>, Perrin (@pgrandne), Rafael Fitoussi (@fi2c), Raphael (@RaphaelHardFork), Virgil (@virgilea2410)
+author: >-
+  Cédric Nicolas (@cedric-n-icolas), Casey <casey@logion.community>, Kerel
+  Verwaerde (@NSTKerel), Matthieu Chassagne <Matthieu@amcconsults.com>, Perrin
+  (@pgrandne), Rafael Fitoussi (@fi2c), Raphael (@RaphaelHardFork), Virgil
+  (@virgilea2410)
 discussions-to: https://ethereum-magicians.org/t/eip-6774-non-sellable-tokens/13528
 status: Draft
 type: Standards Track
