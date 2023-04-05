@@ -1,5 +1,5 @@
 ---
-eip: 6239
+eip: draft_semantic_soulbound_tokens
 title: Semantic Soulbound Tokens
 description: Adding RDF triples to ERC-5192 token metadata to capture social meaning
 author: Jessica Chang (@JessicaChg)
