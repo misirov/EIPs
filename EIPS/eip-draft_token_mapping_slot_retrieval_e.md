@@ -1,9 +1,12 @@
 ---
-eip: 6823
+eip: draft_token_mapping_slot_retrieval_e
 title: Token Mapping Slot Retrieval Extension
-description: Approach to enhance precision of off-chain transaction simulations by accessing mapping storage slot in ERC-20/721/1155 contracts.
+description: >-
+  Approach to enhance precision of off-chain transaction simulations by
+  accessing mapping storage slot in ERC-20/721/1155 contracts.
 author: qdqd (@qd-qd) <qdqdqdqdqd@protonmail.com>
-discussions-to: https://ethereum-magicians.org/t/eip-6823-token-mapping-slot-retrieval-extension/13666
+discussions-to: >-
+  https://ethereum-magicians.org/t/eip-6823-token-mapping-slot-retrieval-extension/13666
 status: Draft
 type: Standards Track
 category: ERC
