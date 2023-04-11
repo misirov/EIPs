@@ -1,4 +1,5 @@
 ---
+eip: .nan
 title: Domain-contracts two-way binding
 description: A standward way to enable a two-way binding between domain and its official contracts to prevent DNS attacks
 author: Venkat Kunisetty (@VenkatTeja)
