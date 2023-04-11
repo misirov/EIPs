@@ -1,5 +1,5 @@
 ---
-eip: 6808
+eip: .nan
 title: Fungible Key Bound Token
 description: An interface for Fungible Key Bound Tokens, also known as a Fungible **KBT**[^1].
 author: Mihai Onila (@MihaiORO), Nick Zeman (@NickZCZ), Narcis Cotaie (@NarcisCRO)
