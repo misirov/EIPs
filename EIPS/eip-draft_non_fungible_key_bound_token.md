@@ -1,5 +1,5 @@
 ---
-eip: 6809
+eip: .nan
 title: Non-Fungible Key Bound Token
 description: An interface for Non-Fungible Key Bound Tokens, also known as a Non-Fungible **KBT**[^1].
 author: Mihai Onila (@MihaiORO), Nick Zeman (@NickZCZ), Narcis Cotaie (@NarcisCRO)
