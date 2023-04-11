@@ -1,5 +1,5 @@
 ---
-eip: 6865
+eip: .nan
 title: on-chain EIP-712 Visualization
 description: on-chain visualization of EIP-712 payloads into structured data that highlights the potential consequences for users' assets
 author: Abderrahmen Hanafi (@a6-dou)
