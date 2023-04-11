@@ -1,5 +1,5 @@
 ---
-eip: 6864
+eip: .nan
 title: Upgradable Fungible Token
 description: Upgradable fungible token, a simple extension to ERC-20
 author: Jeff Huang (@jeffishjeff)
